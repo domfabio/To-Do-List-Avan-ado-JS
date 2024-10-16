@@ -21,7 +21,7 @@
 
 
 ## 📸 Screenshots
-![Captura de tela](./img/screen.gif)
+![Captura de tela](./img/screen-movie.gif)
 
 <br />
 
