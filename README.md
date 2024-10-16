@@ -21,7 +21,9 @@
 
 
 ## 📸 Screenshots
-![Captura de tela](./img/screen-movie.gif)
+<div style="display: flex; justify-content: center;">
+    <img src="./img/screen-movie.gif" alt="Captura de tela" style="width: 500px; height: auto;">
+</div>
 
 <br />
 
