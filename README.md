@@ -1,31 +1,40 @@
-# 📋 To Do List Avançado
+# 📝 To Do List Avançado
 
 <br />
 
 <div>
     <h2>🎯 Sobre o Projeto</h2>
-    Este é o quinto projeto com <strong>JavaScript</strong>, focado no desenvolvimento de uma lista de tarefas.
+    Este é o quinto projeto em JavaScript, focado no desenvolvimento de uma lista de tarefas para organizar atividades. O objetivo foi explorar JavaScript puro na implementação dessas funcionalidades.
 </div>
 
 <br />
 
 ## 👨🏾‍💻 Desafio do Projeto
  
-<p>A primeira parte do desafio teve como objetivo trabalharmos com <strong>JavaScript puro</strong>, e posteriormente aplicarmos o mesmo projeto com <strong>React.js</strong>, com a ideia de comparar o desenvolvimento em ambas as tecnologias e entender a preferência pelo uso de frameworks e bibliotecas em ambientes corporativos.</p>
+<p>O desafio consistiu em desenvolver um aplicativo de <strong>gerenciamento de tarefas</strong> utilizando <strong>JavaScript puro</strong>, com as seguintes funcionalidades:</p>
+<ul>
+  <li><strong>Adicionar, editar e deletar tarefas</strong>.</li>
+  <li><strong>Marcar tarefas como concluídas</strong>.</li>
+  <li><strong>Filtrar tarefas</strong> por pendentes, concluídas ou todas.</li>
+  <li><strong>Persistência no Local Storage</strong>, mantendo as tarefas salvas mesmo após recarregar a página.</li>
+</ul>
 
-
-<br />
 
 ## 📸 Screenshots
-![Captura de tela](./screen/screen.png)
+![Captura de tela](./img/screen.gif)
 
 <br />
 
 ## 🏆 Aprendizados 
 
-- Inserção de dados por meio de Array de Objetos.
-- Validação da entrada de dados permitidos.
-- Apresentação das informações usando Switch/Case.
+- Seleção de elementos HTML.
+- Remoção de elementos do DOM.
+- Filtragem de elementos no DOM.
+- Aplicação de ícones via CDN.
+- Adição de eventos.
+- Manipulação de classes CSS com JavaScript.
+- Interação com botões e formulários.
+- Uso do Local Storage.
 
 
 <br />
@@ -40,7 +49,7 @@
 
 ## 🔗 Projeto On-line
 Este projeto está disponível para visualização on-line. <br />
-Você pode acessá-lo através do link: https://calculadora-imc-js-eight.vercel.app/
+Você pode acessá-lo através do link: https://todo-list-advanced-henna.vercel.app/
 
 <br />
 
