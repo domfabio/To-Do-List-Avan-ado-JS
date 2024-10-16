@@ -22,7 +22,7 @@
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="./img/screen-movie.gif" alt="Captura de tela" width="500" height="auto">
+  <img src="./img/screen-movie.gif" alt="Captura de tela" width="600" height="auto">
 </p>
 
 <br />
