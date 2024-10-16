@@ -21,7 +21,7 @@
 
 
 ## 📸 Screenshots
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; align-items: center">
     <img src="./img/screen-movie.gif" alt="Captura de tela" style="width: 500px; height: auto;">
 </div>
 
